@@ -15,3 +15,8 @@ SKIN CANCER DETECTION: This innovative technology offers a non-invasive and effi
 CHALLENGES: One common hurdle in machine learning projects, including those related to skin cancer detection, is dealing with imbalanced datasets. In scenarios where positive cases (e.g., instances of skin cancer or credit defaults) are significantly outnumbered by negative cases, the model might become biased toward the majority class, leading to suboptimal performance.
 
 SOLUTIONS: To overcome this, various resampling techniques can be employed. Oversampling involves creating synthetic instances of the minority class, while undersampling randomly removes instances from the majority class. Additionally, more advanced methods like SMOTE (Synthetic Minority Over-sampling Technique) can be used to generate synthetic examples of the minority class. Careful consideration and experimentation with different resampling approaches are crucial to finding the most effective strategy for the specific machine learning project.
+
+IMAGE CLASSIFICATION:
+
+![skin cancer 2](https://github.com/ABHISHROYZZZ/IIITM-KANCHIPURAM/assets/146514925/3e338ca7-7ddd-425c-843c-d80120902282)
+![skin cancer1](https://github.com/ABHISHROYZZZ/IIITM-KANCHIPURAM/assets/146514925/d7d15bb7-9344-4d41-8dc1-2a852c061e28)
